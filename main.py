@@ -1,3 +1,1 @@
-# initial commit check
-def dino():
-    
+# initial commit check  
