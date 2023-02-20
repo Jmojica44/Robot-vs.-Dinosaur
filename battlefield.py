@@ -1,10 +1,14 @@
+from robot import Robot
+from dinosaur import Dinosaur
+
 class Battlefield():
     def __init__(self):
-        pass
+        Robot()
+        Dinosaur()
     def run_game(self):
         pass
     def display_welcome(self):
-        pass
+        print(f'Welcome to the arena!')
     def battle_phase(self):
         pass
     def display_winner(self):
