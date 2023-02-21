@@ -28,4 +28,3 @@ class Battlefield():
             print(f'{self.dinosaur.name} has won the fight!')
         elif self.dinosaur.health <= 0:
             print(f'{self.robot.name} has won the fight!')
-

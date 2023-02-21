@@ -10,6 +10,3 @@ class Robot():
         dinosaur.health -= damage
         print(f' {self.name} attacks {dinosaur.name}.')
         print(f' {dinosaur.name} takes {damage} points of damage and now has {dinosaur.health} health left.')
-
-
-#active weapon is an instantiation of the weapon class
